@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640046473338",
+    "project_id": "inter-cd8e2",
+    "storage_bucket": "inter-cd8e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640046473338:android:52852c1cf3864329385bc3",
+        "android_client_info": {
+          "package_name": "com.example.user_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640046473338-54uhujge7pkt1758rrhvom759itv5tk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm1onn3rY1-IuE9M5VUST5zbbpeVqRsVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640046473338-54uhujge7pkt1758rrhvom759itv5tk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
